@@ -6,10 +6,9 @@ Building hands-on experience in industrial control systems security — vulnerab
 assessment, threat modeling, and detection engineering.
 
 ## Featured Work
-- 🏭 [Siemens S7-1200 Vulnerability Assessment](./siemens-s7-1200-vulnerability-assessment) — PLC threat modeling, 4 CVEs verified, MITRE ATT&CK for ICS
-- 🔌 [Phoenix Contact ILC 171 Hardware Security Assessment](./phoenix-contact-ilc171-hardware-security-assessment) — CVSS 9.8 critical finding, protocol-level analysis
-- 🔍 [Elastic Stack Threat-Detection Pipeline](./elastic-stack-threat-detection-pipeline) — end-to-end SIEM detection engineering
-
+- 🏭 [Siemens S7-1200 Vulnerability Assessment](https://github.com/mkhattab1111/siemens-s7-1200-vulnerability-assessment) — PLC threat modeling, 4 CVEs verified, MITRE ATT&CK for ICS
+- 🔌 [Phoenix Contact ILC 171 Hardware Security Assessment](https://github.com/mkhattab1111/phoenix-contact-ilc171-hardware-security-assessment) — CVSS 9.8 critical finding, protocol-level analysis
+- 🔍 [Elastic Stack Threat-Detection Pipeline](https://github.com/mkhattab1111/elastic-stack-threat-detection-pipeline) — end-to-end SIEM detection engineering
 ## Currently
 Advancing CCNA (network fundamentals) and CISA 210W (ICS deployment standards)
 
