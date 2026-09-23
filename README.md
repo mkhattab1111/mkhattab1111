@@ -1,0 +1,19 @@
+# Mohamed Ashraf Khattab
+
+OT/ICS & Network Security | Communications & Computer Engineering Student (Mansoura University, expected 2028)
+
+Building hands-on experience in industrial control systems security — vulnerability
+assessment, threat modeling, and detection engineering.
+
+## Featured Work
+- 🏭 [Siemens S7-1200 Vulnerability Assessment](./siemens-s7-1200-vulnerability-assessment) — PLC threat modeling, 4 CVEs verified, MITRE ATT&CK for ICS
+- 🔌 [Phoenix Contact ILC 171 Hardware Security Assessment](./phoenix-contact-ilc171-hardware-security-assessment) — CVSS 9.8 critical finding, protocol-level analysis
+- 🔍 [Elastic Stack Threat-Detection Pipeline](./elastic-stack-threat-detection-pipeline) — end-to-end SIEM detection engineering
+
+## Currently
+Advancing CCNA (network fundamentals) and CISA 210W (ICS deployment standards)
+
+## Background
+CyManII OT Cybersecurity Bootcamp · NTI Network Security Training (120h) · IT Apprenticeship — Khalda Petroleum
+
+📫 [LinkedIn](https://www.linkedin.com/in/mohamed-khattab11)
