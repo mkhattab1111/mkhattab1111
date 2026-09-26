@@ -1,4 +1,4 @@
-# Mohamed Ashraf Khattab
+# Mohamed Khattab
 
 OT/ICS & Network Security | Communications & Computer Engineering Student (Mansoura University, expected 2028)
 
@@ -16,3 +16,6 @@ Advancing CCNA (network fundamentals) and CISA 210W (ICS deployment standards)
 CyManII OT Cybersecurity Bootcamp · NTI Network Security Training (120h) · IT Apprenticeship — Khalda Petroleum
 
 📫 [LinkedIn](https://www.linkedin.com/in/mohamed-khattab11)
+🌐 [Portfolio](https://mkhattab1111.github.io)
+🌐 [Medium](https://medium.com/@mohamedkhattab1892)
+
